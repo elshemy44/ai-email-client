@@ -1,6 +1,6 @@
 https://github.com/elshemy44/ai-email-client
 
-# MailPilot AI: Minimalist AI Email Client for a Focused Inbox
+
 
 [![Releases](https://github.com/elshemy44/ai-email-client)](https://github.com/elshemy44/ai-email-client) [![License](https://github.com/elshemy44/ai-email-client)](https://github.com/elshemy44/ai-email-client)
 
